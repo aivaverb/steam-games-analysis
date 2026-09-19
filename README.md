@@ -77,8 +77,12 @@
 
 - `Итоговая STIM.ipynb` — основной ноутбук со всеми операциями
 - `report.docx` — пояснительная записка
-- `games_clean.csv` — очищенный датасет
-- `games_bi_tags.csv` — данные по тегам для BI
+- `data.zip` — архив с обработанными данными
+
+## Данные
+
+- **Исходные данные:** [Steam Games Dataset (March 2026) на Kaggle](https://www.kaggle.com/datasets/ebrucakar/steam-games-dataset-march-2026)
+- **Обработанные данные:** `data.zip` (в этом репозитории)
 
 ## Автор
 
